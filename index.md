@@ -1,7 +1,7 @@
 ---
 title: MIT 2100 - The Political Economy of Media
 author: Brett Petch
-date: 2020-01-09 13:30:00
+date: 2020-01-06 14:30:00
 ---
 
 # The Political Economy of Media
@@ -9,21 +9,21 @@ date: 2020-01-09 13:30:00
 
 ## Notes & Readings
 
-|   Topic                     |         Date        |                               Readings                                                        |   Lecture Notes  |   Slides   |
-|:----------------------------|:--------------------|:----------------------------------------------------------------------------------------------|:-----------------|:-----------|
-|   Introduction              | Jan 9th, 2020     |Mosco, Chapter 1                                                                                 | [Lecture 1]      | [Slides 1] |
-|   How We Got Here           | Jan 16th, 2020    |Mosco, Chapter 2; Srincek, Chapter 1; [One Nation, Tracked]                                      | [Lecture 2]      | Slides 2   |
-|   Power, Wealth, Technology | Jan 23th, 2020    |Mosco, Chapter 3; Selyukh, [Optimized Prime]                                                     | [Lecture 3]      | Slides 3   |
-|   Platform Capitalism       | Jan 30th, 2020    |Srincek, Chapter 2; [Facebook Decade]                                                            | [Lecture 4]      | Slides 4   |
-|   Platform Wars             | Feb 6th, 2020     |Srincek, Chapter 3; Conger, Sanger, Shane [Microsoft Wins Pentagon Contract]                     | [Lecture 5]      | Slides 5   |
-|   Platform Scandals         | Feb 13th, 2020    |Mosco, Chapter 4; Bliss, [How Smart Should a City Be?]                                           | [Lecture 6]      | Slides 6   |
-|   Reading Week              | Feb 20th, 2020    |N/A                                                                                              | N/A              | N/A        |
-|   Mid-Term Exam             | Feb 27th, 2020    |N/A                                                                                              | N/A              | N/A        |
-|   Gender Gap                | March 5th, 2020   |Hicks, [When Google Walked]; Morris, [Why Tech's Gender Problem is Nothing New]                  | [Lecture 9]      | Slides 9   |
-|   Gig Economy               | March 12th, 2020  |Shenker, [Strike 2.0]; Chu, [The Year Tech Workers Organized]                                    | [Lecture 10]     | Slides 10  |
-|   Heavy Buglat              | March 19th, 2020  |Mosco, Chapter 5; Dan Bilefsky, [The Huawei Court Case in Canada]; Karabell, [Huawei versus US]  | [Lecture 11]     | Slides 11  |
-|   Public Utility            | March 26th, 2020  |Mosco, Chapter 6; Harris, [Big Tech Invincibility Cracks]                                        | [Lecture 12]     | Slides 12  |
-|   Conclusion and Revision   | April 2nd, 2020   | N/A                                                                                             | [Lecture 13]     | Slides 13  |
+|   Topic                     |        Date       |                               Readings                                                            |   Lecture Notes  |   Slides   |
+|:----------------------------|:------------------|:------------------------------------------------------------------------------------------------==|:-----------------|:-----------|
+|   Introduction              | Jan 9th, 2020     |Mosco, Chapter 1                                                                                   | [Lecture 1]      | [Slides 1] |
+|   How We Got Here           | Jan 16th, 2020    |Mosco, Chapter 2; Srincek, Chapter 1; [One Nation, Tracked] [reading 2 notes]                      | [Lecture 2]      | [Slides 2] |
+|   Power, Wealth, Technology | Jan 23th, 2020    |Mosco, Chapter 3; Selyukh, [Optimized Prime]; [reading 3 notes]                                    | [Lecture 3]      | [Slides 3] |
+|   Platform Capitalism       | Jan 30th, 2020    |Srincek, Chapter 2; [Facebook Decade] [reading 4 notes]                                            | [Lecture 4]      | [Slides 4] |
+|   Platform Wars             | Feb 6th, 2020     |Srincek, Chapter 3; Conger, Sanger, Shane [Microsoft Wins Pentagon Contract] [reading 5 notes]     | [Lecture 5]      | [Slides 5] |
+|   Platform Scandals         | Feb 13th, 2020    |Mosco, Chapter 4; Bliss, [How Smart Should a City Be?]  [reading 6 notes]                          | [Lecture 6]      | [Slides 6] |
+|   Reading Week              | Feb 20th, 2020    |N/A                                                                                                | N/A              | N/A        |
+|   Mid-Term Exam             | Feb 27th, 2020    |N/A                                                                                                | N/A              | N/A        |
+|   Gender Gap                | March 5th, 2020   |Hicks, [When Google Walked]; Morris, [Why Tech's Gender Problem is Nothing New] [reading 9 notes]  | [Lecture 9]      | [Slides 9] |
+|   Gig Economy               | March 12th, 2020  |Shenker, [Strike 2.0]; Chu, [The Year Tech Workers Organized] [reading 10 notes]                   | [Lecture 10]     | [Slides 10]|
+|   Heavy Buglat              | March 19th, 2020  |Mosco, Chapter 5; Bilefsky, [The Huawei Court Case in Canada]; Karabell, [Huawei versus US] [11]   | [Lecture 11]     | [Slides 11]|
+|   Public Utility            | March 26th, 2020  |Mosco, Chapter 6; Harris, [Big Tech Invincibility Cracks]     [reading 12 notes]                   | [Lecture 12]     | [Slides 12]|
+|   Conclusion and Revision   | April 2nd, 2020   | N/A                                                                                               | [Lecture 13]     | [Slides 13]|
 
 ## Assignments
 
@@ -47,8 +47,17 @@ date: 2020-01-09 13:30:00
 [Lecture 12]: lecture/404
 [Lecture 13]: lecture/404
 
-[Slide 1]: lecture/404
-
+[Slides 1]: lecture/404
+[Slides 2]: lecture/404
+[Slides 3]: lecture/404
+[Slides 4]: lecture/404
+[Slides 5]: lecture/404
+[Slides 6]: lecture/404
+[Slides 9]: lecture/404
+[Slides 10]: lecture/404
+[Slides 11]: lecture/404
+[Slides 12]: lecture/404
+[Slides 13]: lecture/404
 
 [One Nation, Tracked]: https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
 [Optimized Prime]: https://www.npr.org/2018/11/21/660168325/optimized-prime-how-ai-and-anticipation-power-amazons-1-hour-deliveries
