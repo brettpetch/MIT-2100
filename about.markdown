@@ -1,6 +1,7 @@
 ---
-title: MIT 2100 - The Political Economy of Media
-author: Brett Petch
+layout: page
+title: About
+permalink: /about/
 date: 2020-01-06 14:30:00
 ---
 

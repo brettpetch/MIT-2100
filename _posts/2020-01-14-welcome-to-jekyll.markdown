@@ -1,7 +1,8 @@
 ---
-title: Lecture 1 - Political Economy of Media
+title: Intro
 author: Brett Petch
 date: 2020-01-09 14:30:00
+layout: category-post
 ---
 ## Big Tech
 - Companies such as Google, Facebook, Apple, Amazon, Microsoft
