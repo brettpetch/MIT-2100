@@ -11,7 +11,7 @@ date: 2020-01-06 14:30:00
 ## Notes & Readings
 
 |   Topic                     |        Date       |                               Readings                                                            |   Lecture Notes  |   Slides   |
-|:----------------------------|:------------------|:------------------------------------------------------------------------------------------------==|:-----------------|:-----------|
+|:----------------------------|:------------------|:--------------------------------------------------------------------------------------------------|:-----------------|:-----------|
 |   Introduction              | Jan 9th, 2020     |Mosco, Chapter 1                                                                                   | [Lecture 1]      | [Slides 1] |
 |   How We Got Here           | Jan 16th, 2020    |Mosco, Chapter 2; Srincek, Chapter 1; [One Nation, Tracked] [reading 2 notes]                      | [Lecture 2]      | [Slides 2] |
 |   Power, Wealth, Technology | Jan 23th, 2020    |Mosco, Chapter 3; Selyukh, [Optimized Prime]; [reading 3 notes]                                    | [Lecture 3]      | [Slides 3] |
