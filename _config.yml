@@ -31,3 +31,5 @@ theme_color: blue
 
 # Build settings
 markdown: kramdown
+
+owl: https://owl.uwo.ca/portal/site/63de366f-b9e9-42a0-a406-39fc5c2c7c23
