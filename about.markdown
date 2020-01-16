@@ -49,7 +49,7 @@ date: 2020-01-06 14:30:00
 [Lecture 13]: lecture/404
 
 [Slides 1]: lecture/404
-[Slides 2]: lecture/404
+[Slides 2]: /attachments/slides/2020-01-16.pdf
 [Slides 3]: lecture/404
 [Slides 4]: lecture/404
 [Slides 5]: lecture/404
