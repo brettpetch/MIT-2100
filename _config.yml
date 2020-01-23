@@ -17,8 +17,6 @@ title: The Political Economy of Media
 description: MIT 2100
 baseurl: "/MIT-2100" # the subpath of your site, e.g. /blog
 url: "https://brettpetch.ca" # the base hostname & protocol for your site, e.g. http://example.com
-plugins:
-  - jekyll-sitemap
 github_repo: MIT-2100 # the GitHub repo name for your project
 github_username: brettpetch
 
