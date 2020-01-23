@@ -38,3 +38,10 @@ google_analytics: UA-45906012-10
 
 plugins:
   - jekyll-sitemap
+
+  defaults:
+  -
+    scope:
+      path:            "attachments/*"
+    values:
+      sitemap:         false
