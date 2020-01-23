@@ -101,3 +101,22 @@ https://tinyurl.com/y3eqev49
 
 ### Anticipatory Shipping
 This is another wat that amazon filed a patent. They now believe that analyzing the data they own will allow them to want. They will be able to dispatch the item towards the customer fairly confident that the customer would want it or would have already ordered it. If the customer denies it, they give it to the customer as a promotional gift or by sending it to someone similar. They can know what you want ahead of you having ordered it. Discussion: [Amazon Purchases: Shipping before you buy](https://youtu.be/FkNfnjkDFxQ). You may also find [Yesterday Shipping](https://youtu.be/HA_gwzx39LQ). 
+
+### Amazon's Smart Home
+[Dash](https://tinyurl.com/y6xhd4m7)
+[Alexa](https://time.com/5568815)
+
+
+## The First Essay
+After doing next week's reading. The buisness model, the way in which platform capitalists attempt to make money. How are you positioned as someone who will help supply the profits for Platform Capitalism? In the economic calculus. The Gameplan, whether it be an Amazon, an Uber or a Facebook makes it's money. To make that a bit more concrete (see eg. below).
+- Describe one way in whihc you regular interact with Platform Capitalism.
+- Make sure you cleary define Platform Capitalism, how and why the involvement you are describing puts you in relation with it.
+    - read next week's chapter, where he actively sets out the full plot of what he mans by platform capitalism.
+- In the interaction you are describing, what role do you play in the commerical logic of the platform?
+- eg. Are you are worker, a customer, a source of data extraction, a target for advertising, some pomposite of all the above or something else entirely?
+- Define as precisely as you can, and with concrete examples, how and by what means the platform positions you in the role or roles you describe.
+- For example, it is **Not Sufficient* to say "When I use platform x, I am under surveillance" -- You need ot find out,as fasr as you can, what type of surveillance, ,,by what mechanisms, is in play in the example you use.
+- So you need to do research on the practices of the platform you are discussing. 
+- If there is important information that you need to answer the question but cannot, after serious investigation, find, what does this mean about your relation with platform capitalism?
+[Assignment 1]()
+
