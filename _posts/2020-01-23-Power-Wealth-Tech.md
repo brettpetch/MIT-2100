@@ -118,5 +118,19 @@ After doing next week's reading. The buisness model, the way in which platform c
 - For example, it is **Not Sufficient* to say "When I use platform x, I am under surveillance" -- You need ot find out,as fasr as you can, what type of surveillance, ,,by what mechanisms, is in play in the example you use.
 - So you need to do research on the practices of the platform you are discussing. 
 - If there is important information that you need to answer the question but cannot, after serious investigation, find, what does this mean about your relation with platform capitalism?
-[Assignment 1]()
+- The starting point of this assignment is your own experinecne with platform capitalism, you can write the essay in the first-person. 
+- But remember this is not just an exoression of your feelings adn opinions; it requires that you actually research the platform you write about. 
+- 20% of your grade. 10% of essay mark (only essay mark) will be subtracted per day late, and are not accepted more than a week late. You must use Chicago Author-Date Style. See [Perdue OWL](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/chicago_manual_of_style_17th_edition.html) for issues with citations. 
 
+> Please do not ask questions 2-3 days before assignments are due. Feb 9th is your cutoff to submit questions about the essay.
+- thanks, NDW
+
+Hard copy only to your TA on Feb 13, unless under very special circumstances arrangements can be made.
+
+> Do you have to require the course text? 
+- you'll probably want to. Because this is about Platform Capitalism, it is a good idea in addtion to the referrences that I've already mentioned that we should use that text as well.
+
+
+```
+END
+```
