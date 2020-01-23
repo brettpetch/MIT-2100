@@ -130,7 +130,7 @@ Hard copy only to your TA on Feb 13, unless under very special circumstances arr
 > Do you have to require the course text? 
 - you'll probably want to. Because this is about Platform Capitalism, it is a good idea in addtion to the referrences that I've already mentioned that we should use that text as well.
 
-
+> What Role do You Play in the company's Buisness Model
 ```
 END
 ```
