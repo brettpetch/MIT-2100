@@ -2,7 +2,7 @@
 title: Power, Wealth, Technology
 author: Brett Petch
 date: 2020-01-23 14:30:00
-category: tutorial
+category: lecture
 layout: category-post
 ---
 
