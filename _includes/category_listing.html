@@ -1,0 +1,8 @@
+<div class="mb-3">
+    {% assign sortedCategories = page.categories | sort %}
+    {% for category in sortedCategories %}
+        <span class="prose">
+            <a href="{{ site.baseurl }}/{{ category }}">#{{ category }}</a>
+        </span>
+    {% endfor %}
+</div>
