@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 date: 2020-01-06 14:30:00
 ---
 
@@ -36,10 +36,10 @@ date: 2020-01-06 14:30:00
 |   Essay 2                 |   March 26th  |   30%   |
 
 
-[Lecture 1]: lecture/0
-[Lecture 2]: lecture/404
-[Lecture 3]: lecture/404
-[Lecture 4]: lecture/404
+[Lecture 1]: week-1/
+[Lecture 2]: week-2/
+[Lecture 3]: week-3/
+[Lecture 4]: week-4/
 [Lecture 5]: lecture/404
 [Lecture 6]: lecture/404
 [Lecture 9]: lecture/404
@@ -48,10 +48,10 @@ date: 2020-01-06 14:30:00
 [Lecture 12]: lecture/404
 [Lecture 13]: lecture/404
 
-[Slides 1]: lecture/404
-[Slides 2]: /attachments/slides/2020-01-16.pdf
-[Slides 3]: lecture/404
-[Slides 4]: lecture/404
+[Slides 1]: assets/attachments/slides/2020-01-09.pdf
+[Slides 2]: assets/attachments/slides/2020-01-16.pdf
+[Slides 3]: assets/attachments/slides/2020-01-23.pdf
+[Slides 4]: assets/attachments/slides/2020-01-30.pdf
 [Slides 5]: lecture/404
 [Slides 6]: lecture/404
 [Slides 9]: lecture/404
