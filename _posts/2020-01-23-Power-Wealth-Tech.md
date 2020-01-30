@@ -4,6 +4,9 @@ author: Brett Petch
 date: 2020-01-23 14:30:00
 category: lecture
 layout: category-post
+categories: 
+    - lecture
+    - week-3
 ---
 
 #### Nick Dyer-Witherford

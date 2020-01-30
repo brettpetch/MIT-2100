@@ -3,6 +3,9 @@ title: How We Got Here
 author: Brett Petch 
 date: 2020-01-16 14:30:00
 layout: category-post
+categories: 
+    - lecture
+    - week-2
 ---
 #### Nick Dyer-Witherford
 
