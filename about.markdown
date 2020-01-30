@@ -63,12 +63,12 @@ date: 2020-01-06 14:30:00
 [1]: https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
 [2]: https://www.npr.org/2018/11/21/660168325/optimized-prime-how-ai-and-anticipation-power-amazons-1-hour-deliveries
 [3]: https://arstechnica.com/tech-policy/2019/12/why-the-2010s-were-the-facebook-decade/
-[4]: platformwars.pdf
+[4]: assets/attachment/readings/platformwars.pdf
 [5]: https://www.citylab.com/design/2018/09/how-smart-should-a-city-be-toronto-is-finding-out/569116/
 [6]: https://nymag.com/intelligencer/2019/02/can-the-google-walkout-bring-about-change-at-tech-companies.html
 [7]: https://www.theguardian.com/technology/2018/oct/11/tech-gender-problem-amazon-facebook-bias-women
 [8]: https://www.theguardian.com/books/2019/aug/31/the-new-resistance-how-gig-economy-workers-are-fighting-back
 [9]: https://mashable.com/article/tech-workers-protest-2019/
-[10]: attachments/readings/bugsplat.pdf
-[11]: attachments/readings/bugsplat2.pdf
-[12]: https://www.theguardian.com/commentisfree/2019/oct/21/facebook-google-apple-amazon-big-tech-women
+[10]: assets/attachments/readings/bugsplat.pdf
+[11]: assets/attachments/readings/bugsplat2.pdf
+[12]: https:///www.theguardian.com/commentisfree/2019/oct/21/facebook-google-apple-amazon-big-tech-women
