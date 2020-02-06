@@ -65,3 +65,22 @@ The second term Srnicek refrences is Convergence. An entry in the same domains w
 
 Many people who write about the internet write as if once Academics and Culturalists got ahold of the internet they broke it free of the military and turned it into this cultural place for leisure. All around the world, as the digital revolution expanded, more and more military operations are dependant on these technology. In past years, cyberwar, etc. have become relevant. This recent clash or context between Amazon and Microsoft over who will get the contract for the Pentagon's "WarCloud", as the JEDI Project, it reminds us that the state and the military security aspects of the states continue to be big customers and work hand in glove with corperations. Increasingly, we have a military digital complex. Just to remind you of the article (video from article). 
 
+So, that example, I think is really telling about what the nature of Oligopolitic tendancies are, but this is not competition between mom & dad sized digital companies, or multiplicity of small but nimble silicon valley startups, but rather behemoths, which have layed claim to being the riches person in the world with the largest array of digital resources. Mammoths of digital war fighting abilities for the US Government. 
+
+## Silos
+Just for those of you who may or may not be familiar with something like this, it's a freestanding, self-contained tower for grain silos, for hosting agricultural things like corn. Under the domination of Platform Capitalism is that Oligopolitic tendancies will focus all of their tendencies into the digital world. One example would be Google, who makes people use their maps, search all in one place. Facebook would be another example, using Facebook friends, news feed, whatsapp with messages. Amazon even, who we think of an online retail company, but they know where you go for Streaming Television. Now with prime you get your entertainment services. You may also see Amazon's Twitch for much of your gaming experience. The creation of these "everything envornments", the contest is being fought out for doing everything on a Google, or a Facebook, or an Amazon operating system to be sealed completely within the environment of that company. 
+
+So those are the tendancies of what Srnick... 
+
+Any points of clarification before we break?
+
+Clarify Self-Driving Cars: Uber, Apple, Amazon
+So as you've probably heard, with recent advances in Machine Learning, there have been increasing interest in Autonomous vehicles, which would drive themselves. The intersting thing about this is while some of the players in this field, be it traditional automakers, because the key component is the Artificial intelligence, an information system, we see appearing in this field a number of big platform capitalist companies. For example. Google started it's own Self-Driving car subsidiary, Wemo, which depends very much on it's ability to rapidly process huge amounts of visual and navigational information. Some of these systems may be zapped over high-speed networks, others may happen on board.
+
+Others, such as Uber, that is a lean company, has screens and screens and screens about what it's actually like to operate vehicles. It's pouring all of this into it's car-driving artificial intelligence. IT's why we see both the 'Classic' automobile companies, as well as newer platform capitalists
+
+Explain Network Effect and Data, Platform Wars?
+Let's go back here: so if data is the new oil, the key resource, and the way you get data is from a network with a very large number of users, then you want to expand the size of your networks as quickly as possible. Why? because there is a self-propelling or self-reinforcing dynamic at work. If there are people using a network, then alot of people will want to use it. Because everyone is on Facebook, If you want to keep in touch with friends, you go to facebook. If you want a very good search engine, you go to Google because it collects data based on other searchers. The more popular a network, the larger it will become. You pool resources into getting users, even if that means intial loss. In the long run, if you get this network effect, if you are the go-to place for social media contacts, or snappy fast conversation with a bunch of interesting people, you go to Twitter, that's where you go. If you want professional contacts, you go to LinkedIn. The idea is that you want to get them quickly. 
+
+``` Break ```
+
