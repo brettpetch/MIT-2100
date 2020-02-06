@@ -120,9 +120,9 @@ In accusing it's own back doors, the reason it knows about these techniques is b
 
 In retaliation, China has arrested several Canadians suspecting espionage. Here is a short explanation of this:
 
-<iframe width="560" height="315" src="https://players.brightcove.net/665003303001/4k5gFJHRe_default/index.html?videoId=5976326457001&usrPersonaAds=false" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 55vw; height: 45vh;" src="https://players.brightcove.net/665003303001/4k5gFJHRe_default/index.html?videoId=5976326457001&usrPersonaAds=false" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UpvWO3iaRoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/UpvWO3iaRoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ok, so there could be alot more said about this huawei concern, although we can start to see from this development in Platform Capitalism were raising very very high indeed, but not only the rival of oligopolistic tendencies...
 
