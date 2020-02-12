@@ -71,16 +71,16 @@ Any given company can participate in a number of these. Amazon relies on all 4. 
 
 They don't sell data directly, instead they use data to match people with advertisers. They have to be pushing the edges of privacy all of the time to advertise efficiently.
 
-Cloud Platforms:
+**Cloud Platforms:**
 Salesforce, AWS: Provide hardware, tools, etc. to various platforms. Uber owns very little in assets: rents servers, etc. They are a 'lean platform'. Cloud platforms are a huge part of the platform economy. Google has various ML algorithms you can rent. MS creates AI that can be rented, IBM working on Quantum Cloud. Amazon is much more of a cloud platform than ever before.
 
-Industrial Platform:
+**Industrial Platform:**
 The ida of connecting sensors to the internet. The industrial internet of things would be connected to an intranet. It will increase productivity, improve maintenance, etc. BASF: Smart Factory - every bottle is different than the one before it. That's interesting and all, but the platform providers of the industrial internet. GE & Segmond's: app store for companies. This is where the real money is in the internet. Both companies are trying to get... GE's cloud based system collects more data than Facebook. Going to be worth .... billion dollars in 2020. The money is here with GE and Segmonds with their industrial playforms.
 
-Product Platform: 
+**Product Platform:**
 Goods and services that can be rented. Companies trying to recouperate Free informational goods. The music industry has been going down. In 2016, platforms are incorperating free goods into recouperating free aspects of the contemporary economy. Rolls Royce: creation of jet engines. Shifted from jet engines to renting thrust. Charging airlines by the mile by how much thrust is used. They get maintenance, rolls gets data. Rolls Royce is at the leading edge of jet engine production. Now, the final one I'm going to talk about...
 
-Lean Platforms:
+**Lean Platforms:**
 Uber, the world's largest taxi company, owns no vehicles. AirBNB owns no hotels. They are not profitable. They basically just own the minimal platform. Their profitability is the outsourcng of costs. Not only does Uber have to pay for maintenance, etc. they profit through VC wellfare. The immense amount of money being thrown at a platform. VC in Silicon Valley is the only thing keeping them afloat. Most of these companies are not profitable. Uber is arguably profitability, but to fight off competitors in China, it's losing $1 millon/yr.
 
 2020 Update: Uber is still losing money, it's own projections that it will turn a profit in 2021, but if you look at the buisness press, there is a large amount of confusion around when the company will actually become profitable. 
