@@ -48,3 +48,41 @@ Tl;Dr: This kind of person has the personality type to be a trump voter, however
 
 <iframe style="height: 45vh; width: 55vh;" src="https://www.youtube-nocookie.com/embed/MuFRg-CU6Nc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I encourage you to read Wylie's book. 
+
+## Russian Election Interference
+There was also a serious attempt by proxies of the Russian Government to influence the outcome of the election to prevent clinton from coming into power. These are some of the memes and messages that were circulated by russian agents. The major social media platforms conducted their own autopsies, it seems to have been sizable (see stats on slide). There's also a video here on Russian "Election Hacking" in 2016. I'm going to jump over that. Most scholars would likely say that it was a sizable impact.
+
+## The Fallout
+There were fears in europe, especially around things like Brexit, where hearings were held, got wylie and others to speak. Facebook was fined $5 billion for deceiving users about their privacy policy. There is extensive disagreement about how much the russian hacking, etc. contributed to Trump's campaign. there was no reprecussion. 
+
+This was a major scandal for Platform Capitalism at the most obvious level. Raised the question about how tight privacy policies were, and how they were monitoring content. This brought to attention the whole user-generated content and data extraction buisness model in question. Raises the question about the levels of corperate responsibilty. 2016 began the start of Techlash, at which the excited exunberance of connecting people, it brought forward some darker considerations, like breaking up these big tech corperations. Maybe there should be higher levels of regulation, etc. Maybe we want to move these platforms as utilties rather than something without public oversight. Those are the sort of questions that start to come up. We will look at the gender relations, the labour relations, environmental objections, etc. on what platform capitalism means before the cambridge analytica scandal.
+
+# Exam
+I'm going to brief you on the midterm:
+Thursday: week after reading week, we will dedicate the entire class to the midterm exam. It will be from 2:30-4:10pm. It is a closed-book exam, short answer questions and you will need to do 5/7. Each of these will ask to provide a defintion, examples and some kind of background of the concept. There are going to be no trick questions and no curve balls on this exam. These will be from substantial sections of the course texts have been devoted, or short article readings have been devoted which I have lectured on at some legnth. The sort of term I'm thinking of is "the long downturn", which was a Nick Snerck. Maybe I gave a lecture on free major technologies on data analytics, cloud computing etc. Maybe I'll ask you about Camebridge Analytica... These things are not subtle. You need to look at what are the big ideas or major themes. You also need to provide a consise defintion, fill out with some examples that might illustrate it, when the idea came up, out of what setting, etc. etc. You should be able to answer each of these in 2 paragraphs. One for definition, the other for context and providing some examples. Go for the big themes, the big ideas, the lecture notes, and look at some things of what i lectured on for an entire slide to an entire lecutre. Revise in that way.
+
+ think the rest is pretty self-explanitory. 
+
+ Any questions about the exam? Quotes are not required. Unless it's something really piffy and brilliant that someone said. If you're not paying for the product, you are the product is a nice little throwaway line. If you have a photographic memory, go for it, but it's really not required.
+
+ You don't need to remember ALL OF THE numbers, however they are qustion.
+
+ Nick Snercheck identifies 5 type of platform capitalism: he says between Google and Facebook have 75% of advertising... Most of the concern is that you have the big ideas. Usually there are some standouts and statistics.
+
+ Anymore on this?
+
+ OK. CHEERS. 
+
+ Ok, so your tutorial assistants told me that you folks were somewhat unclear on the relation between neo-liberalism and financial crisis and emergene of platform capitalism
+
+ Let me take a quick run at trying to explain it differently.
+
+ What we're concerned with here is the question of where did neo-liberalism emerge from and what is the relation ot Platform Capitalism to it?
+
+ the classic definition of neoliberalism is a... decline of profitability in US and European buisness. Less taxation, wellfare were too demanding. Some figures: Thatcher, Reagan, etc. The sort of policies of neo-liberalism or de-regulation of economy (cutting red tape) or alternatively described as giving greater power to the private sector. Privatization of all of the things. IE: CBC would be deminished, freeing up possibilities of privitization. Free trade (globalization), enables seeking out of low-wage / low-cost locations to up production. Neoliberalism proved to be rather unstable in the financial system. The government reduced its oversight in the financial sector, refused to restict trades taking place. There were 2 major crashes in 2000 (dot.com crash) and the 2nd in 2008, where there was a Wall Street crash based in subprime mortgages. Basically, there was financial calamity, the government bailed out banks from financial disaster and started to reduce public expendature. This kind of instability lies deep in the background to the election of Trump in 2016, and there is question. Trump is back into nationalist economics. In terms of the internal policy, he lets the market do its thing.
+
+ Why is this important to Platform Capitalism?
+ These economic failures showed real weakness in their economy. Wall Street had blow it, the housing market was shattered, the auto industry was in recession due to automation or offshoring of jobs, platform capitalists were the only promising game in town. It seemed to be a free area to be marketed... benefits from low interest rates and lax tax regulation
+
+A new "White Knight" out of the 2008 crash. I've got to go. Hand in your essay. thx.
