@@ -1,5 +1,5 @@
 ---
-title: Platform Wars
+title: Platform Scandals
 author: Brett Petch
 date: 2020-02-13 14:30:00
 category: lecture
@@ -11,3 +11,4 @@ categories:
 
 
 #### Prof. Nick Dyer-Witheford
+
