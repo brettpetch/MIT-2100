@@ -9,7 +9,7 @@ categories:
     - week-5
 ---
 
-#### Prof. Nick Dyer Witherford
+#### Prof. Nick Dyer-Witheford
 # Readings:
 
 | Readings | Link |
