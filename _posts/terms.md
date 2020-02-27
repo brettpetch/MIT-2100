@@ -13,15 +13,15 @@ Examines power relations (political), economics and the means of communication. 
 An example of this would be Apple, one of the big tech five and their labour practices. In the early 2000's, one of the primary manufacturers of the iPhone (Foxconn) had a series of worker suicides, and severely underpaid staff. While the Corporate stance of Political Economy would look at the 
 
 ## Big Tech
-Made up of companies such as Google, Facebook, Amazon, Microsoft and Apple. They provide very highly specific ads for highly specific products and relies 
+Made up of companies such as Google, Facebook, Amazon, Microsoft and Apple. They provide very highly specific ads for highly specific products and relies heavily on tracking you; placing the consumer in the crosshairs, studying life, habits, etc. These companies are at the forefront of new technologies, and their owners are some of the wealthiest people on earth. Big tech are what examplify Platform Capitalism, broken into Platform and Capitalsim. They exert massive social and commercial power. 
 
-## Techlash
-
-
-## Platform
-
+### Platform
+A platform is an intermeidary or infrastrucutre that bring consumers and advertisers together. These are FOR PROFIT entities, their business interests being the reason for the ways they act, or their commercial logic. These Platforms are a new business model, distinct from the Fordist and post-fordist model.
 
 ## Capitalism
+
+
+## Techlash
 
 
 ### Generalized market exchange
