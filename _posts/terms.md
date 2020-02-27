@@ -16,30 +16,38 @@ An example of this would be Apple, one of the big tech five and their labour pra
 Made up of companies such as Google, Facebook, Amazon, Microsoft and Apple. They provide very highly specific ads for highly specific products and relies heavily on tracking you; placing the consumer in the crosshairs, studying life, habits, etc. These companies are at the forefront of new technologies, and their owners are some of the wealthiest people on earth. Big tech are what examplify Platform Capitalism, broken into Platform and Capitalsim. They exert massive social and commercial power. 
 
 ### Platform
-A platform is an intermeidary or infrastrucutre that bring consumers and advertisers together. These are FOR PROFIT entities, their business interests being the reason for the ways they act, or their commercial logic. These Platforms are a new business model, distinct from the Fordist and post-fordist model.
+A platform is an intermeidary or infrastrucutre that bring consumers and advertisers together. These are FOR PROFIT entities, their business interests being the reason for the ways they act, or their commercial logic. These Platforms are a new business model, distinct from the Fordist and Post-Fordist model. Platforms have a designed core architecture and act to capture and control as much data as possible. This positions platforms in a highly advantageous position for data collection. There are 5 types of platform: Advertising, Cloud, Industrial, Product and Lean each setting itself apart with infrastructure. 
+
+Platforms are typically a cross-subsidized intermediary, wherein they act between different groups (ie. Facebook, Amazon, Google). Each of these companies is unique in the way that they act as an intermediary, but they share two things: infrastructure and cross-subsidization. In Amazon's case, they rent out the cloud as a utility, collecting data at all times through the process. Additionally, Network effects exist within platforms, where high user-counts make it possible for one business to have a monopoly eg: Google (search), Facebook (social media). Finally the core architecture of these platforms is that it acts as an infrastructure for consumers and other businesses alike. 
 
 ## Capitalism
+Capitalism is rooted in the buying and selling of goods and services for profit. Capitalism emerged from the class of property owners that bought and sold commodities. Eventually, there was a connect to the general marketplace, during the industrial revolution where the manufacturing of products emerged. Capitalism began to spread around the world, class struggle emerged and people were working for low wages. One of the by-products of capitalism was slavery. Areas became colonized and their people became slaves to work in the factories. Capitalism is an outright rejection of ideas by Karl Marx and Adam Smith, where Smith believed that the market works without central authorities and that freedom of choice was important. Both of these theorists were against monopolistic tendencies, etc.
 
+Capitalism is a society that leans towards the commodity, it is a society of general commodification and each day more things are being commodified, such as personal data. It is important to note the relation of capitalism and the state, wherein the free market is often referred to as being 'better' than the state; yet is based in laws and regulation that define how much power a corporation can excert. 
 
 ## Techlash
+The outright rejection of modern technology itself. Usually aimed at large tech companies and has gained momentum in supporting policies, slowing down innovations, adding taxes, bans and regulation on technologies. 
+
+An example of this would be the large amount of control being held by the big tech five, where if a contrevorsy is named, you see a different way of life, (ie snowden).
 
 
 ### Generalized market exchange
+Capacity to work needs to be sold to buy and sell other goods. Companies compete for profits and have strong incentive to increase the speed and scale of goods and services that they provide. 
 
+Eg. Generalized exchange can occour between people, organizations, countries, etc. Participants are not in a position to make individual rewards conditional on behaviour. Eg. helping someone on the side of the road, donating to public good, etc.
 
 ### ‘platform capitalism’
-
-
-## Neoclassical / Adam Smith
-
-
-## Marxism / Karl Marx
+The link between power and wealth in relation to media. Interaction between capitalism and technology.
 
 ## Laissez-faire Capitalism
+Markets were completely unregulated, created a highly volatile environment, like that in the great depression where there were huge unemployment rates, lead to new school of thought (keynesianism). 
 
-### Keynesianism
+Keynesianism is the political economic policy applied to Europe and North America follwoing the crash of the dirty 30's and held sway until the 70's. It was named after John Keynes, who believed that public spending was encouragement to the economy.
 
 ## Neoliberalism
+Neoliberalism, or new libralism was a deregulation of the market. Neoliberalists believed that government should get out of the economy and allow for less red-tape, and that pushes for competition, no protections, unions, etc. of national industries.
+
+In the media, we can look at the 
 
 ### ‘one nation tracked’
 
