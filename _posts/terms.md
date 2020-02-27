@@ -1,7 +1,6 @@
 ---
 title: Terms / Other
 author: Brett Petch
-date: 2020-02-28 14:30:00
 category: lecture
 layout: category-post
 categories: 
