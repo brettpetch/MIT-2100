@@ -128,11 +128,16 @@ Intermediaries and infrastructures: Intermediaries between groups.
 ### Intermediaries
 between different groups example: buyers, sellers, advertisers, users.
 
-### Infrastructures
+## Infrastructures
+Interaction and development are essential, ie: app dev, pages, uber, and the idea is that platforms are typically mono/oligopolies. Facebook is teh monopoly of social networks. Rel: new business model is a connector rather than commodity. Surveillance is what enables profit from this business model.
+
+Capitalize on data through extraction; use cross sub. in order to balance out free services vs. those charged for - charging more than they would if they had nothing free.
 
 ### Designed Core Architecture
+Platforms have politics, uses power to generate profit: eg. uber - showing more drivers, surge prices, etc.
 
 ### Advertising Platform
+Idea that 
 
 ### Cloud Platform
 
