@@ -47,11 +47,15 @@ Keynesianism is the political economic policy applied to Europe and North Americ
 ## Neoliberalism
 Neoliberalism, or new libralism was a deregulation of the market. Neoliberalists believed that government should get out of the economy and allow for less red-tape, and that pushes for competition, no protections, unions, etc. of national industries.
 
-In the media, we can look at the 
+In the media, we can look at the rollback of keynesian, how media itself is a commodity, layoffs in public broadcasting, reduction of regulations for large companies.
 
 ### ‘one nation tracked’
+Part of the smartphone tracking industries, how companies use geo-locations to identify the location of a consumer. This information is very valuble, high volume, and highly variable information when analytics are combined with it. The topic looks at how valuable geolocation data really is. 
+
+The idea is that companies can predict behaviours because of other data points from other behaviours. Additionally, geo-location data is not obfuscatable, where the data is so personalized that it would be unique.
 
 ## Concentration of Ownership
+Concentration of ownership is the idea that a sector of the economy is being dominated by a small number of companies. There are two kinds of this: Monopoly and Oligopoly, where mono means one company, and oli means few. 
 
 ### Horizontal Integration
 
