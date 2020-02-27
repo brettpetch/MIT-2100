@@ -156,21 +156,28 @@ Basically have nothing; own as little as possible and own minimal amount they po
 Uber.
 
 ### Cloud Computing
-
+The cloud is a pool of computing resources used by individuals and corporations for a low-maintenance solution. Enables access through smartphone or computer, can be used to store and process information off premise.
 
 #### Data Centres
-
-#### Cloud Platforms
+Data centers are huge information storage centers, thousands of remote servers, need secure, cool and stable locations. Think of data centres as a factory that work on data rather than just store it.
 
 ## 3) big data
+Can be talking about a specific event, automation, etc. Data is constantly being transmitted to/from devices whether we realize it or not. In the days of digital technologies, we are constantly being monitored, etc.
 
 ### Big Data Analytics
+Volume: bring the data
+Velocity: fast data 
+Variety: all the data sources
+not just normal data, but rather a repository made up of multiple sources, can be used to predict behaviour.
 
 #### Analytics
+Correlates big data sets, targets, profiles, creates predictions, recommendations... Allows conglomerates and advertisers to make calculated business decisions. 
 
 ## 2) Internet of Things
+Work off small computerized devices that are able to scan, observe and process. Typically embedded in industrial machinery (drones, robots, watches, fridges, apps, sensors), all networked together; machines interact with machines instead of people.
 
 ### Covergent Technologies (Mosco)
+Internet of things is one of the sources of big data, stored & processed in cloud. 
 
 ### Anticipatory shipping
 
