@@ -137,17 +137,26 @@ Capitalize on data through extraction; use cross sub. in order to balance out fr
 Platforms have politics, uses power to generate profit: eg. uber - showing more drivers, surge prices, etc.
 
 ### Advertising Platform
-Idea that 
+Idea that data is extracted from users, then data is modified and regurgitated into ad space. Facebook and google have high percentages of ad revenue, where FB brought in 96% of it's profit from ads, and Google brought in 89%. Algorithms are the commodity on these platforms, where users and ads are match pushing the edges of privacy.
 
 ### Cloud Platform
+Renting out the cloud as a utility. The cloud is a managed resource, where the business does not have to pay a bunch of costs associated with it. IE: providing hardware for people to use remotely.
 
 ### Industrial Platform
+IoT: Connecting materials, factories to internet, increasing productivity, reducing maint. costs, improving flexibility of building products. Cloud computing essential to the platform; provide space for industrial internet in the cloud. 
 
 ### Product Platform
+Transforms goods into services that can be rented, being used to recuperate free information goods ie: Spotify, AM, Rolls Royce.
+
+Spotify, Apple Music
 
 ### Lean Platform
+Basically have nothing; own as little as possible and own minimal amount they possibly could. They profit by outsourcing all the cost and use VC thrown at them assuming that they will become a monopolist.
+
+Uber.
 
 ### Cloud Computing
+
 
 #### Data Centres
 
