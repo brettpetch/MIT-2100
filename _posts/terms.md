@@ -59,15 +59,23 @@ The idea is that companies can predict behaviours because of other data points f
 ## Concentration of Ownership
 Concentration of ownership is the idea that a sector of the economy is being dominated by a small number of companies. There are two kinds of this: Monopoly and Oligopoly, where mono means one company, and oli means few. Concentration of ownership comes from a group of mergers and acquisitions where companies buy or combine. This results in a conglomerate: a large company with many subsidiaries.
 
-This is an essential part of the political economy of media because it is a thorough examination on the ownership and power relations in the ongoing media.
+This is an essential part of the political economy of media because it is a thorough examination on the ownership and power relations in the ongoing media. 
 
 ### Horizontal Integration
+Buying out companies in the same share of the market.
 
 ### Vertical Integration
+Buying companies in different but connected activities.
 
 ## Revenue Streams
+How corporations work to commodify media. Two ways:
+1. Selling Content: consumers buy things to own them (video games), buy access (movie ticket) or subscribe (nf)
+
+2. Selling Ads: Consumers get content, ads attract attention.
+- Gathering Data: Using or selling to another corporation to attract better content and advertising.
 
 ## Mega-Mega-Media
+5 years ago, mega-media were corporations that would buy smaller companies and gain more control over a sector trying to get a monopoly status. Today, conglomerates are trying to gain control over eachother. 
 
 ## Marketization
 
@@ -78,18 +86,24 @@ This is an essential part of the political economy of media because it is a thor
 ## Mega-Conglomerate
 
 ## Net Neutrality
+Idea that all internet traffic should be treated the same. Open internet idea. In US: FCC repealed net neutrality. IE: speeds could be throttled for anything other than sponsored or media-company run content. 
 
 ## Internet History
-
 ### The Military Net
+Network founded in 1970's as part of Nuclear War Planning and Research. It was part of the (D)ARPA that was created to enable communications should no other line of communication be viable. The internet was created for a military purpose, and should be looked at through a political lens.
 
 ### The Electronic Frontier
-
+USG allowed for allowed for university students and instructors to use the internet for research and rapidly spread connecting more and more people. A this time, internet was text-based. non-commericalized.
 ### Web 1.0
+WWW: 1990's starts to change to the electronic frontier. Introduces graphic display, moving away from only text. Creators that saw the internet was free and open rather than made for profit. USG were interested in the Information Highway (internet) for economic growth. 
+
+Was a response to the economic slump from the mid 70's through 2000's. People looking for major economic boost to help bring economy out of slump.
 
 ### The dot.com Bubble
+Investments in internet and e-businesses. Digital presence starting to replace brick and mortar stores. ISPs didn't give full internet access, but rather access to websites that paid ISPs for users to access it. There was no clear revenue, many popups. 
 
 ### Web 2.0: Tim O’Reilly 2005
+After the stock market crash (dot com bubble burst), a new wave of companies appeared, including new 
 
 #### Centralization
 
