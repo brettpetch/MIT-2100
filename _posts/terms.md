@@ -106,12 +106,16 @@ Investments in internet and e-businesses. Digital presence starting to replace b
 After the stock market crash (dot com bubble burst), a new wave of companies appeared, including new 
 
 #### Centralization
+Large corps continue to dominate, Ie. Google in search, Facebook in SM (platform owners have become giants).  Concerned with how much power centralized corporations have question social issues and power issues, concentration of ownership and surveillance.
 
 #### Consolidation
+Combining legacy media (hollywood) with new media (SV) entering the business together... Relevance being in that hollywood is now second to these new media, currently the big tech 5 hold the most power in media.
 
 #### Commercialization
+Advertising as a revenue model causes social concerns. 
 
 ## Platform Capitalism
+
 
 ### Fordist Model
 
