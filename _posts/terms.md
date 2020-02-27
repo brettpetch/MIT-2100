@@ -189,12 +189,16 @@ Google, Amazon, Facebook, Apple, Facebook all hold monopolies on products, enabl
 Structurally driven to expand range of data extraction purchasing other companies at rapid pace, massive closed expansive and monopolistic platforms. They tend to buy out other platforms, for example Microsoft bought out LinkedIn.  
 
 ## Oligopolistic Tendencies
+Hold high position in a given field. Engage in competition with each other. 
 
 ## Network Effects
 
 ## Convergence
 
 ## Silos
+A silo is when a consumer is locked in a bubble of proprietal systems, focusing on the consumer rather the company itself. 
+
+Example: Netflix pushing Originals versus content they have to pay licensing on. Apple's 'Ecosystem'.
 
 ## Huawei
 
