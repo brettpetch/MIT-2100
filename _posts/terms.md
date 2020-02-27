@@ -123,9 +123,10 @@ Mass production and mass consumption of one same product. Vertical integration: 
 Individualized consumption rather than mass production. Idea of a lean business (cut out unprofitable stuffs). 
 
 ## Platforms
-
+Intermediaries and infrastructures: Intermediaries between groups. 
 
 ### Intermediaries
+between different groups example: buyers, sellers, advertisers, users.
 
 ### Infrastructures
 
