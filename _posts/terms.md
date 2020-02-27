@@ -177,13 +177,16 @@ Correlates big data sets, targets, profiles, creates predictions, recommendation
 Work off small computerized devices that are able to scan, observe and process. Typically embedded in industrial machinery (drones, robots, watches, fridges, apps, sensors), all networked together; machines interact with machines instead of people.
 
 ### Covergent Technologies (Mosco)
-Internet of things is one of the sources of big data, stored & processed in cloud. 
+Internet of things is one of the sources of big data, stored & processed in cloud. One of the points Mosco makes is that big data is that within the realm of mobile phones, not much is really processed on the phone, but rather gets sent to a data center to do the processing. In addition, to doing processing offsite, the cloud platform preforms analytic decisions based on user interaction. An example might be the smartphone, which combine a phone, camera, music player and personal assistant into a single device.
 
 ### Anticipatory shipping
+This is an Amazon technique that will dispatch products to a nearby center. The idea is that if the customer was about to order, but decided that they don't need it and it shows up at their house anyway, Amazon will give the product to them as a gift. 
 
 # Big Tech 5
+Google, Amazon, Facebook, Apple, Facebook all hold monopolies on products, enabling for vertical and horizontal integrations when they buy out smaller companies. 
 
 ## Monopoly platforms
+Structurally driven to expand range of data extraction purchasing other companies at rapid pace, massive closed expansive and monopolistic platforms. They tend to buy out other platforms, for example Microsoft bought out LinkedIn.  
 
 ## Oligopolistic Tendencies
 
