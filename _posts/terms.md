@@ -160,43 +160,63 @@ Uber.
 
 #### Data Centres
 
+
 #### Cloud Platforms
+
 
 ## 3) big data
 
+
 ### Big Data Analytics
+
 
 #### Analytics
 
+
 ## 2) Internet of Things
+
 
 ### Covergent Technologies (Mosco)
 
+
 ### Anticipatory shipping
+
 
 # Big Tech 5
 
+
 ## Monopoly platforms
+
 
 ## Oligopolistic Tendencies
 
+
 ## Network Effects
+
 
 ## Convergence
 
+
 ## Silos
+
 
 ## Huawei
 
+
 ## The Cambridge Analytica Scandal
+
 
 ## Facebook
 
+
 ## The psychometrics institute:
+
 
 ## Italian automatism
 
+
 ## Nick Srnicek 5 types of platform capitalism
+
 
 ## The long downturn
 
