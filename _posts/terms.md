@@ -112,16 +112,18 @@ Large corps continue to dominate, Ie. Google in search, Facebook in SM (platform
 Combining legacy media (hollywood) with new media (SV) entering the business together... Relevance being in that hollywood is now second to these new media, currently the big tech 5 hold the most power in media.
 
 #### Commercialization
-Advertising as a revenue model causes social concerns. 
+Advertising as a revenue model causes social concerns.
 
 ## Platform Capitalism
-
-
+A new business model/a new way of organizing business. Distinct from models of the past such as
 ### Fordist Model
+Mass production and mass consumption of one same product. Vertical integration: control over the cars and everything that goes within it.
 
 ### Post-Fordist Model
+Individualized consumption rather than mass production. Idea of a lean business (cut out unprofitable stuffs). 
 
 ## Platforms
+
 
 ### Intermediaries
 
