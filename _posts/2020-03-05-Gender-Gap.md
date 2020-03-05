@@ -66,3 +66,16 @@ There is a great deal of discussion in which aspects to programming, and tech in
 ## Industry Structure
 <iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/yuA3C3Hq3q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Sexual Harassment in Silicon Valley
+The harassing culture of main silicon valley companies, wherein a highly masculinized workplace has in fact, one could say these revelations were a precurser to a revelation of hollywood; before weinstein there were women coming forward in large numbers and in which harassment was intimidating and ultimately discouraging; eventually career terminating experiences.
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/PsM5rl82Hug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+So, this whole convergent series of things resulted in the worldwide walkout. There will be payoff settlements that were involved in sexual harassment, etc. There was one in a senior Google where the lead in Android Operating System was given a retirement of $90 million dollars to make the issue go away. There were several other apparent examples. The Sexual Harassment issue was at the forefront, and memos being sent that the company was informed that the employees were taking an hour to walk out. 
+
+An auto email response:
+> "Hi. I'm not at my desk because I'm walking out in solidaritry with other Googlers and contractors..."
+
+<div style="padding-bottom: 56.25%; position: relative;">
+<iframe src="https://player.pbs.org/widget/partnerplayer/3018040044/?chapterbar=false&endscreen=false&topbar=false&autoplay=false" marginwidth="0" marginheight="0" scrolling="no" style="position:absolute; top:0;" seamless="" allowfullscreen="" width="100%" height="100%" frameborder="0"></iframe>
+</div>
+
