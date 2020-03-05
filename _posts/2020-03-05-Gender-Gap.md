@@ -25,5 +25,17 @@ There's a mild note of joking caution; is it too good to be true? There is some 
 
 <iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/w0RTgOuoi2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It's called "Exiting the Factory" (1895). Leaving the Googleplex, the conditions around industrial factories haven't gone away from the information age industry. 
+It's called "Exiting the Factory" (1895). Leaving the Googleplex, the conditions around industrial factories haven't gone away from the information age industry. So, I don't know how you received that: it's kind of a point to the story, but he got fired for taking some risks, he documented some Google workers who were not as luxurious as the rest of the Google workers, but tht film was made in 2007. The issue of the precarious part-time temporary workers at Google has not gone away, but has gotten very much bigger, when a piece in the New York Times revealed that slightly over half of 200,000+ Google employees are temporary-contract workers that exist outside of the widely admired top rank positions of the Googleplex. With all the sorts of vulnerabilities, etc. by Wilson's film. Also in 2019, it was announced that Google Temp employees were making a move to unionize that they found their conditions of work so unsatisfactory that they were wanting to join the US Steel Workers union. 
 
+## Project Maven
+This is an issue that got bigger. The sad issue that I wanted to deal with, which has boiled the waters around Google is the type of contracts Google has been engaging in; one of which was Project Maven, which Google engaged in with the US Armed Forces. This was a project that improves the image recognition for drones, by which commit air strikes in the war on terror, which have hit innocent people in the past. The core of this project caused 12 google employees to leave.
+
+<div style="padding-bottom: 56.25%; position: relative;">
+<iframe src="https://player.pbs.org/widget/partnerplayer/3013211714/?chapterbar=false&amp;endscreen=false&amp;topbar=false&amp;autoplay=false" marginwidth="0" marginheight="0" scrolling="no" style="position:absolute; top:0;" seamless="" allowfullscreen="" width="100%" height="100%" frameborder="0"></iframe>
+</div>
+
+``` ```
+
+So, this really occasioned pretty major workplace descent. A number of quite similar software engineers resigned over this, and 3000 people signed a letter protesting a business of war. They say that this vindicated Google as a company that says "don't do evil". 1. Google did not make a promise to say they wouldn't do future contracts... Handed off to Alphabet shell company, the nature of the work Google has been undertaking has continued to ferment in antoher significant case that came up called Project Dragonfly. This was to establish Google in China. It had come up against the censorship requirements. There was alot of discussion around how much Google would submit to China, eventually withdrawing from China. They did have an attempt to re-enter the China market through a Chinese search company. I'm not going to get into the project now, but with this, I am suggesting for you to write your second essay on. In the past few years, we have discovered some of the friction that google takes on in its employees.
+
+``` break ```
