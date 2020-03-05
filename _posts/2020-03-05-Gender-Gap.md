@@ -81,3 +81,9 @@ An auto email response:
 <iframe src="https://player.pbs.org/widget/partnerplayer/3018040044/?chapterbar=false&endscreen=false&topbar=false&autoplay=false" marginwidth="0" marginheight="0" scrolling="no" style="position:absolute; top:0;" seamless="" allowfullscreen="" width="100%" height="100%" frameborder="0"></iframe>
 </div>
 
+## The Aftermath
+Just to conclude, the aftermath of this historic moment in North American workplace culture a really big data at that. Well, Google apologized and some of it's policies related to sexual harassment were updated and authored. However, a year ago (Nov. 2019) four of the principal walkout organizers have left Google and have said since the walkout, despite acknowledgement they claim they were subject to forms of retaliation, where things were re-written as unfavourable to them. This is also part of the openness of working with their workers but not only those involved with harassment walkouts, maven, etc. have been in favour of unionization of Google. It appears as though Google has taken steps to alter it's community guidelines for the internal use of email. Issues continue to exist around it's revealing paygrades in gender and ethnicity in labour. The Google Walkout can be seen as part of a much larger way around workers-rights issues around Google and broader Platform Capitalism.
+
+Next Week: How these issues, and some other issues have expanded from this. 
+
+``` thanks ```
