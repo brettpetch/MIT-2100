@@ -9,6 +9,8 @@ categories:
     - week-9
 ---
 
+##### Prof. Nick Dyer-Witheford
+
 After the internmission of the reading week, we will be resuming regular services. The next theme is the Conflict in Platform Capitalism Essay 2. I am not going to repeat again. In general, we will be picking up on the thread of the discussion of Camebridge Analytica, Privacy invasions, etc. And the development of Platform Capitalism and kinds of conflict that are listed there. Your tutorial leaders brought up that you were critical about Platform Capitalism, and looking in conflicts in Platform Capitalism are in fact very far from being negative, but rather realistic. I've pointed out that issues of political economy of media are questions of power and weath, and issues of both wealth and issues of power, who gets who to do the bidding. There are issues where people are in conflict. One would have to be an idiot to not look at conflict in our organization. It's not because we raise these questions of tension or friction that we need to absorb, then relinquish your social media and high-tech communications. I am not dictating to you what side you should favour in these conflicts, but I do want you to understand in a sufficient depth that you can see your own biases around these issues. We are going to take a critical perspective means that we are going to deal with the reality of platform captialsm rather than the fantacy. 
 
 ## Google: Platform Capitalism's Big Success?
