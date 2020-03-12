@@ -42,5 +42,7 @@ If we limit our dialect, we still remain in the land of *dead white dudes*, whic
 
 More recently, this sort of map of labour may be looked at as critical race theory, postcolonial theory, by which all of this is wrapped up around racialized identies, where there are a set of assumption of unwaged work and why certain types of jobs should be considered cheap labour. Marx realized the degree to which capitalist societies are based on the brutal reality of large scale slavery, particulary in the United States; where slavery was entirely racialized. A question of the legacy of slavery, how it's played into market society, and how similar issues attend issues around migrant labour, various forms of wage discrimination, and the... As we saw at play around the mehanical turk and the kinds of issues we see when we connect different kinds of work where conditions are radically different. It's alot of how big tech has outsourced much of their work to China, where workers would struggle, then push up wage rates. Anyone of these last 3-4 slides could become it's own course within itself. If you're thinking of writing about work conflicts in platform capitalism, you need to think of how it might work into this. Issues of class, race, gender. 
 
-When we come back, we'll look back into this and talk about the 
+When we come back, we'll look back into this and talk about the Gig Economy and another case study.
+
 ``` break ``` 
+
