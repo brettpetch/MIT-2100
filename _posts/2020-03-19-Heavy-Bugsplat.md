@@ -1,5 +1,5 @@
 ---
-title: Gig Economy
+title: Heavy Bugsplat
 author: Brett Petch
 date: 2020-03-19 14:30:00
 category: lecture
