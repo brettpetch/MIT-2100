@@ -60,6 +60,8 @@ The following videos demonstrate how platform capitalism's plans ofr urban desig
 <iframe src="https://toronto.citynews.ca/video/iframe/593482582001/SyxzIeNcgb/6051783106001?auto_play_switch=false" marginwidth="0" marginheight="0" scrolling="no" style="position:absolute; top:0;" seamless="" allowfullscreen="" width="100%" height="100%" frameborder="0"></iframe>
 </div>
 
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/-fbNLbOOQto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Next week, we will return to looking at the difficulties in public oversight and regulation of big tech companies has become.
 
 Ok, let's call it a day. Apologies if it has been a bit clunky in parts. I hope you can make use of the text resources made available (on the slides) to get a sense of the size of influence that platform capitalism hold on both the natural and urban environment and some of the many issues that it raises. 
